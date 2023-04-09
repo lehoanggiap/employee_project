@@ -4,6 +4,15 @@ To run this project, you need to have:
 
 `Java 17`: https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/downloads-list.html <br>
 `Maven` >= 3.0
+`MySQL`
+
+# Set up
+
+You need to have these <b>environment variables</b>:
+
+`db-name`: Database's name in MySQL <br>
+`db-user`: MySQL username <br>
+`db-password`: MySQL password <br>
 
 # API
 
