@@ -10,7 +10,7 @@ To run this project, you need to have:
 
 You need to have these <b>environment variables</b>:
 
-`db-name`: Database's name in MySQL <br>
+`db-name`: Name of database that you create in MySQL for storing employee info<br>
 `db-user`: MySQL username <br>
 `db-password`: MySQL password <br>
 
