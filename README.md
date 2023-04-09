@@ -3,7 +3,7 @@
 To run this project, you need to have:
 
 `Java 17`: https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/downloads-list.html <br>
-`Maven` >= 3.0
+`Maven` >= 3.0 <br>
 `MySQL`
 
 # Set up
